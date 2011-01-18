@@ -1,0 +1,7 @@
+.project
+.settings
+.classpath
+target/
+tt.db
+*.7z
+Temp.java
